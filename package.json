@@ -1,7 +1,7 @@
 {
   "name": "posts",
   "version": "0.1.0",
-  "homepage": "https://{elite1003}.github.io/{posts}",
+  "homepage": "https://elite1003.github.io/posts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
